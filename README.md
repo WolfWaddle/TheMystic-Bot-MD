@@ -30,7 +30,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
+> git clone https://github.com/WolfWaddle/TheMystic-Bot-MD/
 > cd TheMystic-Bot-MD
 > npm install
 > yarn install 
@@ -86,7 +86,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![BrunoSobrino](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/Menu2.jpg?raw=truesize=100)](https://github.com/BrunoSobrino/) 
+[![WolfWaddle](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/Menu2.jpg?raw=truesize=100)](https://github.com/BrunoSobrino/) 
 
-`The Mystic - Bot __________ By Bruno Sobrino`
+`The Mystic - Bot __________ 
 
