@@ -1,8 +1,8 @@
 {
   "name": "TheMystic-Bot-MD",
-  "description": "Subscribete a The Shadow Borkers - Bot (≧▽≦)",
-  "repository": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
-  "logo": "https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/Menu2.jpg",
+  "description": "Subscribete a WolfWaddle - Bot (≧▽≦)",
+  "repository": "https://github.com/WolfWaddle/TheMystic-Bot-MD",
+  "logo": "https://raw.githubusercontent.com/WolfWaddle/TheMystic-Bot-MD/master/Menu2.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
   {
