@@ -5,8 +5,8 @@
 > NO BOT
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/WolfWaddle/TheMystic-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/WolfWaddle/TheMystic-Bot-MD/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/WolfWaddle/TheWolf-Bot-MD-V2/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/WolfWaddle/TheWolf-Bot-MD-V2/blob/master/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
@@ -20,7 +20,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/WolfWaddle/TheMystic-Bot-MD/
+> git clone https://github.com/WolfWaddle/TheWolf-Bot-MD-V2
 > cd TheMystic-Bot-MD
 > npm install
 > yarn install 
@@ -41,7 +41,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheMystic-Bot-MD
+> cd TheWolf-Bot-MD-V2
 > rm -rf session.data.json
 > npm start
 ```
