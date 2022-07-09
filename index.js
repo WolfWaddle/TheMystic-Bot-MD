@@ -16,7 +16,7 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('The Wolf - Bot\nWhatsApp - Bot - MD', {
+say('TheWolf-Whatsapp-Bot-MD-V2', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
@@ -61,7 +61,7 @@ function start(file) {
   })
   p.on('exit', (_, code) => {
     isRunning = false
-    console.error('❎ㅤOcurrio un error inesperado:', code)
+    console.error('❎ㅤAyuda D: revisame:', code)
     if (code === 0) return
     watchFile(args[0], () => {
       unwatchFile(args[0])
