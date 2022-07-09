@@ -1,8 +1,8 @@
 {
-  "name": "TheWolf-Bot-MD",
+  "name": "TheWolf-Bot-MD-V2",
   "description": "Subscribete a WolfWaddle - Bot (≧▽≦)",
-  "repository": "https://github.com/WolfWaddle/TheMystic-Bot-MD",
-  "logo": "https://raw.githubusercontent.com/WolfWaddle/TheMystic-Bot-MD/master/Menu2.jpg",
+  "repository": "https://github.com/WolfWaddle/TheWolf-Bot-MD-V2",
+  "logo": "https://raw.githubusercontent.com/WolfWaddle/TheWolf-Bot-MD-V2/master/Menu2.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
   {
