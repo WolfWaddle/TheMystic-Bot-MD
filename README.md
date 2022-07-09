@@ -21,7 +21,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install imagemagick -y
 > pkg install yarn
 > git clone https://github.com/WolfWaddle/TheWolf-Bot-MD-V2
-> cd TheMystic-Bot-MD
+> cd TheWolf-Bot-MD-V2
 > npm install
 > yarn install 
 > npm install
@@ -33,7 +33,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheMystic-Bot-MD
+> cd TheWolf-Bot-MD-V2
 > npm start
 ```
 
