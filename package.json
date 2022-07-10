@@ -1,7 +1,7 @@
 {
-    "name": "TheMystic-Bot-MD",
-    "version": "1.0.0",
-    "description": "Subscribete al canal de YT The Shadow Borkers",
+    "name": "TheWolf-Bot-MD-V2",
+    "version": "4.1.2",
+    "description": "Gracias por usar el bot",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -12,22 +12,22 @@
     "scripts": {
         "start": "node index.js",
         "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
-        "db": "node . --autocleartmp --db 'mongodb+srv://BrunoSobrino:Akhmad6825@cluster0.mflne.mongodb.net/TheMystic-Bot-MD?retryWrites=true&w=majority'"
+        "db": "node . --autocleartmp --db 'mongodb+srv://WolfWaddle:Akhmad6825@cluster0.mflne.mongodb.net/TheWolf-Bot-MD-V2?retryWrites=true&w=majority'"
     },
-    "homepage": "https://github.com/BrunoSobrino",
+    "homepage": "https://github.com/WolfWaddle",
     "author": {
-        "name": "BrunoSobrino"
+        "name": "WolfWaddle"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+        "url": "git+https://github.com/WolfWaddle/TheWolf-Bot-MD-V2.git"
     },
     "bugs": {
-        "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
+        "url": "https://github.com/WolfWaddle/TheWolf-Bot-MD-V2/issues"
     },
     "license": "MIT",
     "dependencies": {
-        "@adiwajshing/baileys": "^4.1.0",
+        "@adiwajshing/baileys": "github:adiwajshing/baileys",
         "@bochilteam/scraper": "^2.0.0",
         "awesome-phonenumber": "^2.68.0",
         "axios": "^0.24.0",
