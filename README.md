@@ -1,4 +1,4 @@
-# `🧿 𝚃𝚑𝚎 Wolf - 𝙱𝚘𝚝 🔮`
+# `🖤 𝑇ℎ𝑒𝑊𝑜𝑙𝑓-𝐵𝑜𝑡-𝑀𝐷-𝑉2 ⚡`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
 <a href="http://wa.me/593960672979" target="blank"><img src="https://img.shields.io/badge/Wolf_Waddle-25D366?style=for-the-badge&logo=whatsapp&logoColor=red" /></a>
@@ -63,5 +63,5 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ## `PORPIETARIO DEL BOT` 
 
-`The Wolf - Bot __________ 
+`𝑇ℎ𝑒𝑊𝑜𝑙𝑓-𝐵𝑜𝑡-𝑀𝐷-𝑉2 __________ 
 
