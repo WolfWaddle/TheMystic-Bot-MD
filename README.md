@@ -6,7 +6,6 @@
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/WolfWaddle/TheWolf-Bot-MD-V2/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/WolfWaddle/TheWolf-Bot-MD-V2/blob/master/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
