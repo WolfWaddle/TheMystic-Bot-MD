@@ -3,11 +3,11 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['593969672979', '👑 WolfWaddle - Creador 👑', true],
+  ['593960672979', '👑 WolfWaddle - Creador 👑', true],
   ['12565839765', '🤖 Wolf - Bot 🤖', true],
   ['12565839765'],
   ['12565839765']
-] // Cambia los numero que quieras
+] // 
 global.mods = [] 
 global.prems = [] 
 global.APIs = { // API Prefix
@@ -62,10 +62,10 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 Wolf - 𝙱𝚘𝚝★'
+global.author = '★𝑇ℎ𝑒𝑊𝑜𝑙𝑓-𝐵𝑜𝑡-𝑀𝐷-𝑉2★'
 
-global.wm = '★𝚃𝚑𝚎 Wolf - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 Wolf - 𝙱𝚘𝚝★'
+global.wm = '★𝑇ℎ𝑒𝑊𝑜𝑙𝑓-𝐵𝑜𝑡-𝑀𝐷-𝑉2★'
+global.igfg = '★𝑇ℎ𝑒𝑊𝑜𝑙𝑓-𝐵𝑜𝑡-𝑀𝐷-𝑉2★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.multiplier = 9999 // The higher, The harder levelup
